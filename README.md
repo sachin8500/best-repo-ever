@@ -1,6 +1,4 @@
 # best-repo-ever
 
-this it code modification on myfeaturebranch
-=======
-this is the demo git hub 
+this it code modification on new-branch-1
 
